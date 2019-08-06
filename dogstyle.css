@@ -1,4 +1,31 @@
-<!DOCTYPE html>
+* {
+  font-family: fantasy;
+  text-align: center;
+}
+
+h1 {
+  color: red;
+}
+h2 {
+  color: magenta;
+}
+p {
+  font-style: italic;
+}
+ul {
+  list-style-type: none;
+}
+h3 {
+  font-weight: bold;
+}
+
+
+
+
+
+
+
+/* <!DOCTYPE html>
 <html>
   <head>
     <link href = "dogstyle.css" rel="stylesheet" type="text/css">
@@ -8,6 +35,7 @@
     <h1>TONIGHT'S TOP STORY: DOGS MISSING FROM POUND</h1>
     <h2>There are currently 4 top suspects in the case of the missing pups</h2>
 
+    <p>Suspects in Albhabetical Order:</p>
     <ul>
         <li><img src="https://images-na.ssl-images-amazon.com/images/I/61doBJ1f-oL._SY355_.jpg" alt="Baha Men" width=200px; height=200px;></li>
         <li><img src="https://i1.wp.com/roomescapeartist.com/wp-content/uploads/2019/01/Carmen-Sandiego-Logo.png?w=359&ssl=1" alt="Carmen Sandiego" width=200px; height=200px;</li>
